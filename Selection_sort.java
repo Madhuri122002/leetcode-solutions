@@ -1,4 +1,4 @@
-class Solution 
+class Selection_sort
 {
     public int[] sortArray(int[] nums)
     {
